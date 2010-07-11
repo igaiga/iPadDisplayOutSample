@@ -16,3 +16,6 @@ main code is in here.
 
 You can use iPad simulater with external display.
 There is settings in hardware menu.
+
+I referd the site. thanks. :)
+http://stackoverflow.com/questions/2660473/using-uiscreen-to-drive-a-vga-display-doesnt-seem-to-show-the-uiwindow
