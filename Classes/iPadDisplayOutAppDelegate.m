@@ -39,7 +39,7 @@
         window.screen = external;
     }
     
-    // 外部ディスプレイサイズ
+    // setting external display size. 
     CGPoint point = CGPointMake(0.0f, 0.0f);
     //    CGSize size = CGSizeMake(1024.0f, 768.0f);
     CGSize size = maxSize;
